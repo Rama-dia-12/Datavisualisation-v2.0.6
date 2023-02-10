@@ -608,7 +608,7 @@ b. Pie charts: Répartition par année des plus gros succès et de leur chiffres
 c. Réalisateurs ayant comptabilisé le plus d'entrées dans les salles françaises**
  
     
-<iframe src='https://public.flourish.studio/visualisation/12706313/embed' title='Vision globale des réalisateurs et des performances de leurs films' frameborder='0' scrolling='no' style='width:100%;height:800px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/12706313/embed' title='Vision globale des réalisateurs et des performances de leurs films' frameborder='0' scrolling='no' style='width:100%;height:500px;'></iframe>
 
 d. Le Cinéma Français à l'international avec Wikidata Query Service**
    
